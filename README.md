@@ -2,6 +2,9 @@
 
 A 2D endless runner game built with **Unity & C#**, developed during a co-op internship at **Schneider Electric**. The game was showcased live at **Innovation Summit Riyadh 2025**, where it attracted hundreds of visitors at the interactive gaming booth.
 
+<img width="559" height="334" alt="image" src="https://github.com/user-attachments/assets/2e6046ec-fb6f-4c9a-a7d7-4d06458289b8" />
+
+
 ---
 
 ## 🎮 Gameplay
